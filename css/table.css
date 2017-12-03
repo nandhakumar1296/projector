@@ -1,0 +1,23 @@
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+.red{
+    vertical-align: middle;
+    background: red;
+    text-decoration-color: white;
+}
+
+.green{
+    vertical-align: middle;
+    background: lightgreen;
+}
+
+.orange{
+    vertical-align: middle;
+    background: orange;
+}
