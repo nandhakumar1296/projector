@@ -51,7 +51,7 @@
                     <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
                         <ul class="nav navbar-nav">
                             <li class="dropdown">
-                                <a href="php/ulogout.php" class="dropdown-toggle">Logout</a>
+                                <a href="php/alogout.php" class="dropdown-toggle">Logout</a>
                             </li>
                         </ul>
                     </nav>
